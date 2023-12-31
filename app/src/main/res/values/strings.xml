@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ГаражПро</string>
+    <string name="action_settings">Настройки</string>
+    <string name="save_settings">Сохранить настройки</string>
+    <string name="text_view_1">ID пользователя</string>
+    <string name="text_view_2">Ключ</string>
+    <string name="text_view_3">Гос. Номер авто</string>
+    <string name="text_view_4">Номер дома</string>
+    <string name="action_start_page">К панели управления</string>
+    <string name="action_prog">О программе</string>
+    <string name="activiti_settings">Страница настроек</string>
+    <string name="text_start">Ворота</string>
+    <string name="gates_open">Открыть ворота</string>
+    <string name="gates_half_open">Приоткрыть ворота</string>
+    <string name="garage">Гаражи</string>
+    <string name="garage_left">Гараж (лево)</string>
+    <string name="garage_right">Гараж (право)</string>
+    <string name="open_settings">Настройки</string>
+    <string name="activiti_about_app">О приложении</string>
+</resources>
